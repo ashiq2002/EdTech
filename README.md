@@ -1,16 +1,13 @@
-# edtech
+# Ed-tech
 
-A new Flutter project.
+## User Login
 
-## Getting Started
+User must provide valid email and password while logging in. The email and password with which the account was created.
 
-This project is a starting point for a Flutter application.
+- You can use the testing email password to login
+</br>email : test@gmail.com </br>
+password : test@123 
 
-A few resources to get you started if this is your first Flutter project:
+## User Signup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Valid email must be provided while creating new account. That will send an OTP with which to verify the email. If the email is not verified, the account will not be created
